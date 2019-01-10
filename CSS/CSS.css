@@ -188,12 +188,12 @@ nav ul ul li {
 #basket{
 	display:none;
 }
+video{
+	width:40vw;
+}
 /*Media queries for.....*/
 @media only screen and (max-width: 1024px) {
 	body{
 		background : blue;
-	}
-	nav{
-		
 	}
 }
